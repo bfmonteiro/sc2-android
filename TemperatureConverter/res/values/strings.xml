@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="celsius">para Celsius</string>
+    <string name="fahrenheit">para Fahrenheit</string>
+    <string name="convert">Converter</string>
+    <string name="invalid_number">Por favor digite um número válido</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="title_activity_convert">Conversor de temperatura</string>
+    <string name="share_subject">Conversão de temperatura do dia</string>
+    <string name="share_text">%1$f° Celsius = %2$f° Fahrenheit</string>
+</resources>
